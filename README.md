@@ -6,7 +6,7 @@ A digital agency landing page developed using HTML and CSS, built by converting 
 ![design-view](./Images/preview.png)
 
 ## Live Demo
-👁 [Click here](https://mohjarabahh.github.io/leon-agency-website) to check out the live demo!
+👁 [Click here](https://mohjarabahh.github.io/leon-website) to check out the live demo!
 
 ## Technologies
 * HTML
